@@ -251,7 +251,7 @@ Body text.
           <table align="center" width="730" class="email-container tbl-footer">
             <tr>
               <td style="padding: 40px 10px;width: 100%;font-size: 12px; font-family: Helvetica, Arial, sans-serif; mso-height-rule: exactly; line-height:18px; text-align: center; color: #888888;"> 
-                <a href="%%=RedirectTo(Concat('https://www.trialspark.com/privacy?', @tracking))=%%" target="_blank" class="tbl-footer-link" style="color:#292929; font-weight: bold; text-decoration:underline;">Privacy Policy</a>
+                <a href="https://www.trialspark.com/privacy?" target="_blank" class="tbl-footer-link" style="color:#292929; font-weight: bold; text-decoration:underline;">Privacy Policy</a>
                 <br>
                 <custom name="opencounter" type="tracking" />
               </td>
